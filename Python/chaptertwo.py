@@ -13,3 +13,10 @@ _name=5
 print("name is {}".format(_name))
 print(f"this number is {_name}")
 print("this number is "+str(d))
+print(a)
+name='true'
+print(name + ' false')
+x=None
+print(x)
+y=float
+print(y)
